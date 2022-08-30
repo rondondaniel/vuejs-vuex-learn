@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <VuexCount />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import VuexCount from './components/VuexCount'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    VuexCount
   }
 }
 </script>
