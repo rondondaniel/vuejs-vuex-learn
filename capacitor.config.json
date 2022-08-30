@@ -1,0 +1,6 @@
+{
+  "appId": "com.vuexios.app",
+  "appName": "vuex-ios",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
